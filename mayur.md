@@ -5,7 +5,7 @@ This repository is a forked version of the **Full Stack Development 2025** proje
 
 ## Updates
 - Added a README file to the project.
-- Included details about the website's domain name and Figma design link for reference.
+- Included details about the websites domain name and Figma design link for reference.
 
 ## Website Domain
 [**laundrybuddy**]()
